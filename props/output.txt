@@ -1,0 +1,32 @@
+Output on the web page :
+
+Hello Ben from Sienna
+
+Hello Kylian from PSG
+
+Hello Cristiano from Manchester United
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Output on console :
+
+{to: 'Ben', from: 'Sienna', num: 4}
+from: "Sienna"
+num: 4
+to: "Ben"
+[[Prototype]]: Object
+Hello.js:3 
+
+{to: 'Kylian', from: 'PSG', num: 10, isFunny: true}
+from: "PSG"
+isFunny: true
+num: 10
+to: "Kylian"
+[[Prototype]]: Object
+Hello.js:3 
+
+{to: 'Cristiano', from: 'Manchester United', num: 10, data: Array(6)}
+data: (6) [1, 2, 3, 4, 5, 6]
+from: "Manchester United"
+num: 10
+to: "Cristiano"
+[[Prototype]]: Object
